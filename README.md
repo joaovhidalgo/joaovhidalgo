@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/joaovhidalgo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovhidalgo&show_icons=true&theme=calm&title_color=e3432d&icon_color=e3432d&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovhidalgo&layout=compact&langs_count=7&theme=calm&title_color=e3432d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovhidalgo&show_icons=true&theme=calm&title_color=3ae868&icon_color=3ae868&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovhidalgo&layout=compact&langs_count=7&theme=calm&title_color=3ae868"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
