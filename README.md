@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/joaovhidalgo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovhidalgo&show_icons=true&theme=calm&title_color=3ae868&icon_color=3ae868&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovhidalgo&layout=compact&langs_count=7&theme=calm&title_color=3ae868"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovhidalgo&show_icons=true&theme=calm&title_color=d92964&icon_color=d92964&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovhidalgo&layout=compact&langs_count=7&theme=calm&title_color=d92964"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,7 +17,7 @@
  
 <div> 
   <a href = "https://twitter.com/joaovhidalgo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href = "https://medium.com/@joaok3.jv"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href = "https://joaovhidalgo.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://instagram.com/joaov.hidalgo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaov.hidalgo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaov.hidalgo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
